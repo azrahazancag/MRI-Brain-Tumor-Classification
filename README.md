@@ -1,6 +1,9 @@
 # Brain MRI Tumor Classification
 
-Bu repo, beyin MR görüntülerinden tümör sınıflandırması yapmak için VGG16 tabanlı bir derin öğrenme modelini içermektedir. Veri artırma (rotation, flip, noise) teknikleri uygulanmış, eğitim süreci sırasında train/validation accuracy takip edilmiş ve Grad-CAM ile görselleştirme yapılmıştır.
+Bu repo, beyin MR görüntülerinden tümör sınıflandırması yapmak için VGG16 tabanlı bir derin öğrenme modelini içermektedir.  
+Veri artırma (rotation, flip, noise) teknikleri **yalnızca train setine ve sınıf dengesi gözetilerek** uygulanmıştır.  
+Eğitim sürecinde overfitting’i önlemek için **L2 regularization (weight decay)** eklenmiş, train/validation loss ve accuracy takip edilmiştir.  
+Test aşamasında **accuracy, confusion matrix ve classification report** hesaplanmış, ayrıca Grad-CAM ile modelin odaklandığı bölgeler görselleştirilmiştir.
 
 # Giriş
 
