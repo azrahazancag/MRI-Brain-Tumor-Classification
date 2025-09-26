@@ -18,7 +18,9 @@ Ayrıca, veri artırma yöntemleriyle sınıf dengesizliği azaltılmıştır.
 
 # Ekler
 
-- Grad-CAM ile örnek MRI görüntülerinde hangi bölgelerin model kararını etkilediği analiz edilmiştir.  
+- Grad-CAM ile örnek MRI görüntülerinde hangi bölgelerin model kararını etkilediği analiz edilmiştir.
+- Confusion Matrix ile modelin hangi sınıfları doğru, hangi sınıfları hatalı sınıflandırdığı görselleştirilmiştir. 
+  Bu sayede modelin en çok hangi sınıfları karıştırdığı analiz edilmiştir.
 
 # Sonuç ve Gelecek Çalışmalar
 
@@ -27,9 +29,8 @@ Gelecekte, daha hafif ve hızlı mimariler (ResNet, MobileNet) ile deneyler yap�
 
 # Linkler
 
-Proje ile ilgili Kaggle notebook: 
-https://www.kaggle.com/code/azrahazan/brain-mri-classification-akbank-bootcamp-2025
-
+Proje ile ilgili Kaggle notebook (L2 olmayan): 
+https://www.kaggle.com/code/azrahazan/notebook073d108170
 Dataset: 
 https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
 
