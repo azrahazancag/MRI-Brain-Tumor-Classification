@@ -33,7 +33,7 @@ Gelecekte, daha hafif ve hızlı mimariler (ResNet, MobileNet) ile deneyler yap�
 # Linkler
 
 Proje ile ilgili Kaggle notebook: 
-https://www.kaggle.com/code/azrahazan/notebook073d108170
+[Buraya tıklayın.](https://www.kaggle.com/code/azrahazan/mri-brain-tumor-classification-with-l2)
 
 Dataset: 
 https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
