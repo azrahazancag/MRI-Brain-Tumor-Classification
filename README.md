@@ -29,8 +29,9 @@ Gelecekte, daha hafif ve hızlı mimariler (ResNet, MobileNet) ile deneyler yap�
 
 # Linkler
 
-Proje ile ilgili Kaggle notebook (L2 olmayan): 
+Proje ile ilgili Kaggle notebook: 
 https://www.kaggle.com/code/azrahazan/notebook073d108170
+
 Dataset: 
 https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
 
