@@ -29,6 +29,7 @@ Gelecekte, daha hafif ve hızlı mimariler (ResNet, MobileNet) ile deneyler yap�
 
 Proje ile ilgili Kaggle notebook: 
 https://www.kaggle.com/code/azrahazan/brain-mri-classification-akbank-bootcamp-2025
+
 Dataset: 
 https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
 
